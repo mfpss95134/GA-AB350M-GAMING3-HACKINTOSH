@@ -55,5 +55,5 @@ Most parts are working well, except the following.
 - [**Apple**](https://www.apple.com/tw/) for the macOS.
 - [**Dortania**](https://github.com/dortania) for the great guides.
 - [**Acidanthera**](https://github.com/acidanthera) for [AppleALC](https://github.com/acidanthera/AppleALC), [Lilu](https://github.com/acidanthera/Lilu), [OpenCore](https://github.com/acidanthera/OpenCorePkg), [VoodooPS2](https://github.com/acidanthera/VoodooPS2), [VirtualSMC](https://github.com/acidanthera/VirtualSMC), [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
-- [**AMD OS X**](https://github.com/AMD-OSX/AMD_Vanilla) for the .
+- [**AMD OS X**](https://github.com/AMD-OSX/AMD_Vanilla) for the crucial patches.
 
