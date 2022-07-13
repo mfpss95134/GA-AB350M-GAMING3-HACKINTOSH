@@ -1,4 +1,4 @@
-# ASUS-P8B75-M-LE-HACKINTOSH
+# GA-AB350M-GAMING3-HACKINTOSH
 
 ## Specifications
 | Component | Details |
