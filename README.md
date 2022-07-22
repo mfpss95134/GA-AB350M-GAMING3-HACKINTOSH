@@ -30,16 +30,18 @@ Most parts are working well, except the following.
 ## Recommended BIOS Settings
 - Disable
   - Fast Boot
+  - CSM Support
   - Secure Boot
-  - Serial/COM Port
-  - Parallel Port
-  - CSM
+  - AMD CPU fTPM
+  - Above 4G Decoding
+  - Serial/COM Ports
+  - Parallel Ports
 
   
   
 - Enable
+  - SVM Mode
   - EHCI/XHCI Hand-off
-  - OS type: Windows 8.1/10 UEFI Mode
   - SATA Mode: AHCI
 <br>
 
