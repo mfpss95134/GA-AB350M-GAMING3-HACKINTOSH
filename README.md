@@ -4,7 +4,7 @@
 | Component | Details |
 |:---:|:---:|
 | CPU | AMD Ryzen 5 1600 |
-| RAM | Micron 16GB DDR4 2666Mhz<br>+<br>Transcend 16GB DDR4 3200Mhz |
+| RAM | Transcend 16GB DDR4 3200Mhz |
 | MB | GA-AB350M-Gaming 3 |
 | SSD | Intel 760P 256GB |
 | HDD | TOSHIBA DT01ACA200 2TB |
@@ -28,21 +28,20 @@ Most parts are working well, except the following.
 <br>
 
 ## Recommended BIOS Settings
-- Disable
-  - Fast Boot
-  - CSM Support
-  - Secure Boot
-  - AMD CPU fTPM
-  - Above 4G Decoding
-  - Serial/COM Ports
-  - Parallel Ports
-
-  
-  
-- Enable
-  - SVM Mode
-  - EHCI/XHCI Hand-off
-  - SATA Mode: AHCI
+  - Disable
+    - Fast Boot
+    - CSM Support
+    - Secure Boot
+    - AMD CPU fTPM
+    - Above 4G Decoding
+    - Serial/COM Ports
+    - Parallel Ports
+	
+	
+  - Enable
+    - SVM Mode
+    - EHCI/XHCI Hand-off
+    - SATA Mode: AHCI
 <br>
 
 ## Screenshots
