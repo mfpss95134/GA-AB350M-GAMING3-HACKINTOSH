@@ -26,6 +26,7 @@ Most parts are working well, except the following.
 | Component | Status | Description |
 |:---|:---|:---|
 | Microphone | Not working | It's well known that AMD 15h/16h may have issues with AppleALC and Ryzen/Threadripper systems rarely have mic support.<br><br>If you really need a working mic, you can either buy an external usb sound card or install VoodooHDA.kext to /S/L/E (with SIP fully disabled).  |
+| USB | Working | Although USB is working out of box, there are some tutorials recommend to do USB mapping.<br><br>I have no idea whether I should do USB mapping because USB on AMD platform seems to be very complicated. |
 <br>
 
 
